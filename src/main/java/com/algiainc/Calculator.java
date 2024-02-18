@@ -13,7 +13,7 @@ public class Calculator {
     int summ;
     int substraction;
     int multiplex;
-    float division;
+    double division;
     double building_in_degree;
     double exponent;
     double square_root;
@@ -31,7 +31,7 @@ public class Calculator {
         System.out.println("mult - The answer is " + multiplex);}
 
     public void division() {
-        division = this.number_01 / this.number_02;
+        division = Math.divideExact(this.number_01,this.number_02);
         System.out.println("division - The answer is " + division);}
 
     public void square_root() {

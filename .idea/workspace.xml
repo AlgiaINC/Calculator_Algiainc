@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f00631-b093-4bbc-887b-eb89ae4576c5" name="Changes" comment="Create class Calculator.java">
+    <list default="true" id="03f00631-b093-4bbc-887b-eb89ae4576c5" name="Changes" comment="Debug the calculator&#10;end this feathere">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/algiainc/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algiainc/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/algiainc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algiainc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algiainc/Person.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,7 @@
 }</component>
   <component name="ProjectId" id="2cSmxVh8m7ozllKJDahYfwWyTvg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -96,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708192135942</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Debug the calculator&#10;end this feathere">
+      <option name="closed" value="true" />
+      <created>1708193176499</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708193176499</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -104,6 +114,7 @@
     <MESSAGE value="Save renaming changes" />
     <MESSAGE value="Save renaming changes&#10;create some objects and methods" />
     <MESSAGE value="Create class Calculator.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create class Calculator.java" />
+    <MESSAGE value="Debug the calculator&#10;end this feathere" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debug the calculator&#10;end this feathere" />
   </component>
 </project>
